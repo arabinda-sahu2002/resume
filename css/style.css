@@ -29,12 +29,8 @@ a {
   text-decoration: none;
 }
 
-#pdf {
-  margin-left: 2.5%;
-  align-content: center;
-  align-items: center;
-  width: 95%;
-  height: 975px;
+img {
+  border: 2px solid black; /* Adjust border width and color as needed */
 }
 
 #printButton {
