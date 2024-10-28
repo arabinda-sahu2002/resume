@@ -13,7 +13,7 @@ function printAndEnter() {
   
   // Create a button element
   const printEnterButton = document.createElement('printButton');
-  printEnterButton.textContent = 'Print and Enter';
+  printEnterButton.textContent = 'Print Page';
   printEnterButton.addEventListener('click', printAndEnter);
   
   // Append the button to your desired element, for example, the body:
