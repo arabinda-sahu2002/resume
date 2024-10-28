@@ -1,42 +1,51 @@
 body {
-    font-family: 'Times New Roman', Times, serif;
-    margin: 20px;
-  }
-  
-  header {
-    text-align: center;
-  }
-  
-  section {
-    margin-bottom: 20px;
-  }
-  
-  h2 {
-    margin-top: 0;
-  }
-  
-  ul {
-    list-style-type: none;
-    padding: 0;
-  }
-  
-  li {
-    margin-bottom: 10px;
-  }
-  
-  a {
-    color: blue;
-    text-decoration: none;
-  }
-  #printButton {
-    background-color: #4CAF50;
-    border: none;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    cursor: pointer;
-  }
+  font-family: 'Times New Roman', Times, serif;
+  margin: 20px;
+}
+
+header {
+  text-align: center;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+h2 {
+  margin-top: 0;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+}
+
+#pdf {
+  margin-left: 2.5%;
+  align-content: center;
+  align-items: center;
+  width: 95%;
+  height: 975px;
+}
+
+#printButton {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
